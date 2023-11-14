@@ -31,5 +31,7 @@ print(greet2)
 print(id(greet2))
 print(type(greet2))
 
+main()
+
 hi = greet2
 hi()
